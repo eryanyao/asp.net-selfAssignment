@@ -2,7 +2,7 @@
 ## The fourth semester of bachelor's degree
 This assignment I complete on my fourth semester of my bachelor degree. It was a simple self introduction website developed by ASP.NET.
 
-### Link:
+### Hosting Link:
 http://yanyao1999.freeasphost.net/
 
 ### Screenshot：
