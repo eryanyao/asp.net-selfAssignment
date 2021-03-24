@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<business>
+  <business Selected="true" name="Select Business Type"></business>
+  <business name="Accounting System"></business>
+  <business name="Computer"></business>
+  <business name="Customer Relationship Management System"></business>
+  <business name="Inventory Control System"></business>
+  <business name="Networking"></business>
+  <business name="Software"></business>
+  <business name="Telephone Communication"></business>
+</business>

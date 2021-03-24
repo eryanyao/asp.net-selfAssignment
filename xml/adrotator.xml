@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>/img/work/img1.jpg</ImageUrl>
+    <NavigateUrl>https://www.brainyquote.com/</NavigateUrl>
+    <AlternateText>KeepGoing</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Word</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/img/work/img2.jpg</ImageUrl>
+    <NavigateUrl>https://www.brainyquote.com/</NavigateUrl>
+    <AlternateText>KeepGoing</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Word</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/img/work/img3.jpg</ImageUrl>
+    <NavigateUrl>https://www.brainyquote.com/</NavigateUrl>
+    <AlternateText>KeepGoing</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Word</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/img/work/img4.jpg</ImageUrl>
+    <NavigateUrl>https://www.brainyquote.com/</NavigateUrl>
+    <AlternateText>KeepGoing</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Word</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/img/work/img5.jpg</ImageUrl>
+    <NavigateUrl>https://www.brainyquote.com/</NavigateUrl>
+    <AlternateText>KeepGoing</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Word</Keyword>
+  </Ad>
+</Advertisements>
