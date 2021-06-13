@@ -3,7 +3,7 @@
 This assignment I complete on my fourth semester of my bachelor degree. It was a simple self introduction website developed by ASP.NET.
 
 ### Hosting Link:
-http://yanyao1999.freeasphost.net/
+<http://yanyao1999.freeasphost.net/>
 
 ### Screenshot：
 ![1](https://user-images.githubusercontent.com/74011230/112245687-50923000-8c8c-11eb-9b9a-27a2fef7fae5.png)
